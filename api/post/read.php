@@ -47,7 +47,4 @@
             array('message' => 'no post found')
         );
     }
-
-
-
 ?>
